@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="303" viewBox="0 0 1440 303" role="img" aria-label="GitHub portfolio of Thales Pescarini">
+<rect width="1440" height="303" fill="#FFFFFF" />
+<g transform="translate(697 28) scale(1.9)">
+ <path fill="#171717" d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.56v-2.14c-3.2.7-3.87-1.36-3.87-1.36-.52-1.33-1.28-1.68-1.28-1.68-1.05-.72.08-.7.08-.7 1.16.08 1.77 1.2 1.77 1.2 1.03 1.77 2.71 1.26 3.37.96.1-.75.4-1.26.74-1.55-2.56-.29-5.25-1.28-5.25-5.7 0-1.26.45-2.29 1.19-3.1-.12-.29-.52-1.47.11-3.06 0 0 .97-.31 3.18 1.18A11.1 11.1 0 0 1 12 6.23c.98 0 1.97.13 2.89.39 2.21-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.77.12 3.06.74.81 1.18 1.84 1.18 3.1 0 4.43-2.69 5.4-5.26 5.69.42.36.79 1.06.79 2.14v3.17c0 .31.21.68.8.56C20.21 21.39 23.5 17.08 23.5 12 23.5 5.65 18.35.5 12 .5z"/>
+</g>
+<text x="720" y="125" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif" font-size="45" font-weight="700" fill="#131313">github.com/thales-pescarini</text>
+<text x="720" y="174" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif" font-size="28" font-weight="400" fill="#606060">PhD in Geophysics | Paleomagnetism &amp; Rock Magnetism</text>
+<text x="720" y="214" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, Helvetica, sans-serif" font-size="28" font-weight="400" fill="#606060">Computational Modeling | Data Science | ML &amp; AI</text>
+<g transform="translate(704 255)" fill="none" stroke="#9C9C9C" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M4 -1 V 17 Q 4 21 10 21 H 23"/><path d="M27 -1 V 11 Q 27 15 21 15 H 13"/><circle cx="4" cy="-3" r="4" fill="#FFFFFF"/><circle cx="4" cy="21" r="4" fill="#FFFFFF"/><circle cx="27" cy="-3" r="4" fill="#FFFFFF"/><circle cx="27" cy="21" r="4" fill="#FFFFFF"/>
+</g>
+</svg>
