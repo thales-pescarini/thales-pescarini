@@ -4,7 +4,7 @@
 
 ## Professional direction
 
-This portfolio will organize industry-oriented projects in data science, machine learning and AI, with an emphasis on rigorous evaluation, reproducibility and clear technical documentation.
+This portfolio organize my industry-oriented projects in data science, machine learning and AI.
 
 ## Focus areas
 
