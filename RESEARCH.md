@@ -17,4 +17,10 @@ I am a geophysicist, working on computational geophysics, paleomagnetism, rock m
 
 Publicly releasable repositories, data products and corresponding publications will be listed here once selected and prepared for sharing. No unpublished or restricted research files are included in this starter portfolio.
 
+## Research projects
+
+### [AMS–GEOESTAT | Geostatistics of Magnetic Anisotropy](https://github.com/thales-pescarini/AMS-GEOESTAT)
+
+Research in progress. Investigating the spatial resolution of changes in magnetic anisotropy fabrics using geostatistical models, uncertainty quantification, and sampling-design comparisons. Synthetic and real-data validation of the current methodological formulation remains pending.
+
 [← Back to the main profile](README.md)
