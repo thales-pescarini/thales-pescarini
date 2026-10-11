@@ -4,7 +4,7 @@
 
 ## About
 
-I am a geophysicist with a PhD, working on computational geophysics, paleomagnetism, rock magnetism and quantitative physical modelling.
+I am a geophysicist, working on computational geophysics, paleomagnetism, rock magnetism and quantitative physical modelling.
 
 ## Research interests
 
