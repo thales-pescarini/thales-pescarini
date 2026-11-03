@@ -23,8 +23,8 @@ Publicly releasable repositories, data products and corresponding publications w
 
 Research in progress. Investigating the spatial resolution of changes in magnetic anisotropy fabrics using geostatistical models, uncertainty quantification, and sampling-design comparisons. Synthetic and real-data validation of the current methodological formulation remains pending.
 
-### [2026-Pescarini_TVRM-Superchrons | Nama Group Thermoviscous Remagnetization](https://github.com/thales-pescarini/2026-Pescarini_TVRM-Superchrons)
+### [2026-Pescarini_TVRM-Superchrons | Slow Cooling, Polarity History and Thermoviscous Remagnetization](https://github.com/thales-pescarini/2026-Pescarini_TVRM-Superchrons)
 
-Code and derived data for research on thermoviscous remagnetization in the Nama Group, including TROUT fitting, Raman thermometry, blocking ages and reversal coherence.
+Code and data for a paper submitted to *Geophysical Journal International*. Models thermoviscous resetting and continuous-cooling blocking of single-domain pyrrhotite and magnetite under a stochastic geomagnetic polarity history, showing how slow cooling makes superchrons act as filters that select a single remanence polarity. Case study: remagnetized carbonates of the Nama Group, Namibia, with TROUT unmixing and Raman thermometry.
 
 [← Back to the main profile](README.md)
