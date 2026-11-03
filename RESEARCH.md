@@ -23,4 +23,8 @@ Publicly releasable repositories, data products and corresponding publications w
 
 Research in progress. Investigating the spatial resolution of changes in magnetic anisotropy fabrics using geostatistical models, uncertainty quantification, and sampling-design comparisons. Synthetic and real-data validation of the current methodological formulation remains pending.
 
+### [nama-tvrm-gji | Nama Group Thermoviscous Remagnetization](https://github.com/thales-pescarini/nama-tvrm-gji)
+
+Code and derived data for research on thermoviscous remagnetization in the Nama Group, including TROUT fitting, Raman thermometry, blocking ages and reversal coherence. Private repository; access is restricted to authorized users.
+
 [← Back to the main profile](README.md)
