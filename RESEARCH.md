@@ -25,6 +25,6 @@ Research in progress. Investigating the spatial resolution of changes in magneti
 
 ### [2026-Pescarini_TVRM-Superchrons | Nama Group Thermoviscous Remagnetization](https://github.com/thales-pescarini/2026-Pescarini_TVRM-Superchrons)
 
-Code and derived data for research on thermoviscous remagnetization in the Nama Group, including TROUT fitting, Raman thermometry, blocking ages and reversal coherence. Private repository; access is restricted to authorized users.
+Code and derived data for research on thermoviscous remagnetization in the Nama Group, including TROUT fitting, Raman thermometry, blocking ages and reversal coherence.
 
 [← Back to the main profile](README.md)
