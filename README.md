@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <sub>Two paths, one profile. Select Research or Industry to explore the portfolio.</sub>
+  <sub>Select Research or Industry to explore the portfolio.</sub>
 </p>
