@@ -15,7 +15,9 @@ I am a geophysicist, working on computational geophysics, paleomagnetism, rock m
 
 ## Research software and publications
 
-Publicly releasable repositories, data products and corresponding publications will be listed here once selected and prepared for sharing. No unpublished or restricted research files are included in this starter portfolio.
+### [MAGTHERMO | Magnetic Thermochronometry](https://github.com/thales-pescarini/magthermo)
+
+MAGTHERMO tests when vector demagnetization curves from characterized populations of single-domain grains can constrain the temperature and duration of a thermal event. The forward model builds on the Single Domain Comprehensive Calculator (Cych et al., 2025). In a synthetic test on a subset of a magnetofossil population at a known event temperature of 40 °C, reducing the number of crystal orientations from 16 to four affected duration estimates in 217 of 242 cases. Joint recovery of temperature and duration is under evaluation. [Reproduce the 40 °C example](https://github.com/thales-pescarini/magthermo/tree/mf40-quadrature-v1.0.1/examples/mf40).
 
 ## Research projects
 
